@@ -1,4 +1,6 @@
 {
+  "extends": ["github>whitesource/merge-confidence:beta"],
+  
   "dependencyDashboard" :true,
   "packageRules": [
     {
